@@ -1,7 +1,11 @@
 ---
 title: 출국 준비
 comments: True
-layout: page
+layout: default
+date:  2015-06-01 23:26:12
+photo: 1.png
+caption_header: 출국 준비
+caption: sample caption
 ---
 
 #◆여권 준비   
