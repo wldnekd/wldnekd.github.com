@@ -1,13 +1,9 @@
 ---
-title: 출국 준비
-comments: True
 layout: default
-date:  2015-06-01 23:26:12
+date:   2014-04-06 23:26:12
 photo: 1.png
 caption_header: 출국 준비
-caption: sample caption
----
-
+caption: 
 #◆여권 준비   
 
 ### 여권을 발급하기 위한 준비물은 아래와 같다.  
@@ -202,4 +198,8 @@ DIBP(호주 이민부) 웹사이트 상의 자세한 정보
 　
 ##이로써 출국 준비를 마쳤다. 다음 포스팅으로 넘어가도록 하자.
 
+
+
+comments: True
+---
 
